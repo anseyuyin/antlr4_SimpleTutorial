@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = libParser
+build_property.ProjectDir = D:\MyProject\Git\antlr4_SimpleTutorial\examples\calculator\libParser\

@@ -1,0 +1,16 @@
+D:\MyProject\Git\antlr4_SimpleTutorial\examples\calculator\libParser\bin\Debug\netcoreapp3.1\libParser.deps.json
+D:\MyProject\Git\antlr4_SimpleTutorial\examples\calculator\libParser\bin\Debug\netcoreapp3.1\libParser.dll
+D:\MyProject\Git\antlr4_SimpleTutorial\examples\calculator\libParser\bin\Debug\netcoreapp3.1\libParser.pdb
+D:\MyProject\Git\antlr4_SimpleTutorial\examples\calculator\libParser\obj\Debug\netcoreapp3.1\CalculatorLexer.cs
+D:\MyProject\Git\antlr4_SimpleTutorial\examples\calculator\libParser\obj\Debug\netcoreapp3.1\CalculatorParser.cs
+D:\MyProject\Git\antlr4_SimpleTutorial\examples\calculator\libParser\obj\Debug\netcoreapp3.1\CalculatorListener.cs
+D:\MyProject\Git\antlr4_SimpleTutorial\examples\calculator\libParser\obj\Debug\netcoreapp3.1\CalculatorBaseListener.cs
+D:\MyProject\Git\antlr4_SimpleTutorial\examples\calculator\libParser\obj\Debug\netcoreapp3.1\CalculatorVisitor.cs
+D:\MyProject\Git\antlr4_SimpleTutorial\examples\calculator\libParser\obj\Debug\netcoreapp3.1\CalculatorBaseVisitor.cs
+D:\MyProject\Git\antlr4_SimpleTutorial\examples\calculator\libParser\obj\Debug\netcoreapp3.1\libParser.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+D:\MyProject\Git\antlr4_SimpleTutorial\examples\calculator\libParser\obj\Debug\netcoreapp3.1\libParser.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProject\Git\antlr4_SimpleTutorial\examples\calculator\libParser\obj\Debug\netcoreapp3.1\libParser.AssemblyInfoInputs.cache
+D:\MyProject\Git\antlr4_SimpleTutorial\examples\calculator\libParser\obj\Debug\netcoreapp3.1\libParser.AssemblyInfo.cs
+D:\MyProject\Git\antlr4_SimpleTutorial\examples\calculator\libParser\obj\Debug\netcoreapp3.1\libParser.csproj.CoreCompileInputs.cache
+D:\MyProject\Git\antlr4_SimpleTutorial\examples\calculator\libParser\obj\Debug\netcoreapp3.1\libParser.dll
+D:\MyProject\Git\antlr4_SimpleTutorial\examples\calculator\libParser\obj\Debug\netcoreapp3.1\libParser.pdb

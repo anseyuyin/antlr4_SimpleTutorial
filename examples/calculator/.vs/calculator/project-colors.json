@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d8e3aead-17f6-4ac1-8829-d9687b3491d3": {
+      "ProjectGuid": "d8e3aead-17f6-4ac1-8829-d9687b3491d3",
+      "DisplayName": "calculatorApp",
+      "ColorIndex": 0
+    },
+    "beb89f66-f96e-419e-8927-caca8fcfb79c": {
+      "ProjectGuid": "beb89f66-f96e-419e-8927-caca8fcfb79c",
+      "DisplayName": "libParser",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
