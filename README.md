@@ -139,6 +139,6 @@ public static string calcValue(string text)
 ````
 
 ### 资料
-书籍：《antlr4权威指南》
-[(官方java)初步使用演示](https://github.com/antlr/antlr4/blob/master/doc/getting-started.md)
-[各语言 antrl4 实现仓库](https://github.com/antlr/grammars-v4)
+- 书籍：《antlr4权威指南》
+- [(官方java)初步使用演示](https://github.com/antlr/antlr4/blob/master/doc/getting-started.md)
+- [各语言 antrl4 实现仓库](https://github.com/antlr/grammars-v4)
