@@ -1,6 +1,0 @@
-D:\MyProject\Git\antlr4_SimpleTutorial\examples\calculator\libParser\obj\Debug\netstandard2.0\CalculatorLexer.cs
-D:\MyProject\Git\antlr4_SimpleTutorial\examples\calculator\libParser\obj\Debug\netstandard2.0\CalculatorParser.cs
-D:\MyProject\Git\antlr4_SimpleTutorial\examples\calculator\libParser\obj\Debug\netstandard2.0\CalculatorListener.cs
-D:\MyProject\Git\antlr4_SimpleTutorial\examples\calculator\libParser\obj\Debug\netstandard2.0\CalculatorBaseListener.cs
-D:\MyProject\Git\antlr4_SimpleTutorial\examples\calculator\libParser\obj\Debug\netstandard2.0\CalculatorVisitor.cs
-D:\MyProject\Git\antlr4_SimpleTutorial\examples\calculator\libParser\obj\Debug\netstandard2.0\CalculatorBaseVisitor.cs
