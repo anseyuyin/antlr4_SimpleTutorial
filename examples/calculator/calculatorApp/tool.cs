@@ -10,6 +10,11 @@ namespace calculatorApp
 {
     public class tool
     {
+        /// <summary>
+        /// 算式文本 计算求值
+        /// </summary>
+        /// <param name="text">算式文本</param>
+        /// <returns>计算值</returns>
         public static string calcValue(string text)
         {
             string reuslt = "";
